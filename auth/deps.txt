@@ -1,0 +1,7 @@
+express
+expressjwt
+passport
+passport-google-oath20
+passport-facebook
+passport-twitter
+passport-github2
